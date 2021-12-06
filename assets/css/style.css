@@ -27,6 +27,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.tBox{
+  margin: 0 auto;
+  width: 350px;
+  height: auto;
+}
+
+.sorting{
+  text-align:left;
+  line-height: 30px;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
